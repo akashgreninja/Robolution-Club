@@ -1,0 +1,48 @@
+@media screen and (max-width:1000px){
+    .footer{
+        background-color: #212529;
+        margin-top: 400px;
+        /* height: 86px; */
+        padding-left: 1rem;
+        color: white;
+    }
+    .roboimg-1{
+   
+        width: 3rem;
+        /* filter: invert(100%); */
+    
+    }
+    .small-png{
+        width:4vw ;
+        height: 3.5vw;
+
+    }
+    .socials{
+        display: flex;
+        justify-content: center;
+        padding-right: 100px;
+        
+        width: 100%;
+        
+        
+
+    }
+    .con{
+        display: flex;
+        justify-content: center;
+        
+        width: 100%;
+    }
+    .image-toru{
+        display: flex;
+        justify-content: center;
+        
+        width: 100%;
+        padding-right: 170px;
+
+    }
+  
+
+
+}
+    
