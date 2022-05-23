@@ -84,6 +84,9 @@ export default function Footer() {
               </a>
             
           </div>
+          <div className="copyright">
+          ©2022 Robolution Club of BIT
+          </div>
         </div>
       </div>
     </footer>

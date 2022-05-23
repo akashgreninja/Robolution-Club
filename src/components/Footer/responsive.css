@@ -20,9 +20,9 @@
     .socials{
         display: flex;
         justify-content: center;
-        padding-right: 100px;
+       
         
-        width: 100%;
+        width: 50%;
         
         
 
@@ -31,7 +31,8 @@
         display: flex;
         justify-content: center;
         
-        width: 100%;
+        
+        width: 95%;
     }
     .image-toru{
         display: flex;
@@ -40,6 +41,9 @@
         width: 100%;
         padding-right: 170px;
 
+    }
+    .copyright{
+        text-align: center;
     }
   
 
